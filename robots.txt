@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ieruyl.github.io/sitemap/sitemap.Brsnr.gz
